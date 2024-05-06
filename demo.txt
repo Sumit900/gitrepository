@@ -1,1 +1,1 @@
-this is a demo file which will trigger once we push the code on develop branch, Jenkins will trigger the build and this file will be downloaded on the server
+this is a demo file which will trigger once we push the code on develop branch, Jenkins will trigger the build and this file will be downloaded on the server.
